@@ -1,37 +1,37 @@
 [
   {
-    "title": "有村架純",
+    "title": "佐賀 天気",
     "source": "Google",
     "score": 8.5,
     "category": "Search",
-    "timestamp": "2025-10-31T18:28:45.267946"
+    "timestamp": "2025-10-31T19:14:16.915583"
+  },
+  {
+    "title": "有村架純",
+    "source": "Google",
+    "score": 8.4,
+    "category": "Search",
+    "timestamp": "2025-10-31T19:14:16.915593"
   },
   {
     "title": "赤旗維新藤田",
     "source": "Google",
-    "score": 8.4,
+    "score": 8.3,
     "category": "Search",
-    "timestamp": "2025-10-31T18:28:45.267958"
+    "timestamp": "2025-10-31T19:14:16.915598"
   },
   {
     "title": "にじさんじ",
     "source": "Google",
-    "score": 8.3,
+    "score": 8.2,
     "category": "Search",
-    "timestamp": "2025-10-31T18:28:45.267963"
+    "timestamp": "2025-10-31T19:14:16.915600"
   },
   {
     "title": "福岡天気",
     "source": "Google",
-    "score": 8.2,
-    "category": "Search",
-    "timestamp": "2025-10-31T18:28:45.267965"
-  },
-  {
-    "title": "hulu",
-    "source": "Google",
     "score": 8.1,
     "category": "Search",
-    "timestamp": "2025-10-31T18:28:45.267966"
+    "timestamp": "2025-10-31T19:14:16.915601"
   }
 ]
